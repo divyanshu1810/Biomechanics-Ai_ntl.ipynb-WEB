@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img alt="" src="assets/Biomechani.png" height=" x    "  />
+  <img alt="" src="assets1/Biomechani.png" height=" x    "  />
   <p align="center">  
   </p>
   
@@ -40,11 +40,11 @@ alt="python"
 width="40"
 height="40"></img></a>&nbsp;&nbsp;
 
-+ OpenCV  <a href="https://opencv.org/"><img src="assets/opencv.png" width="30"></img></a>&nbsp;&nbsp;
++ OpenCV  <a href="https://opencv.org/"><img src="assets1/opencv.png" width="30"></img></a>&nbsp;&nbsp;
 
-+ React  <a href="https://reactjs.org/"><img src="assets/react.png" width="40"></img></a>&nbsp;&nbsp;
++ React  <a href="https://reactjs.org/"><img src="assets1/react.png" width="40"></img></a>&nbsp;&nbsp;
 
-+ Mediapipe  <a href="https://dart.dev/"><img src="assets/mediapipe.png" width="40"></img></a>&nbsp;&nbsp;
++ Mediapipe  <a href="https://dart.dev/"><img src="assets1/mediapipe.png" width="40"></img></a>&nbsp;&nbsp;
 
 
 <br>
@@ -63,14 +63,14 @@ height="40"></img></a>&nbsp;&nbsp;
 Gui image feed --> Pose coordinates --> Angle Calculation --> RULA/REBA algorithm -->Assesment score & Table appending
 
 <p float="left">
-  <img src="assets/The RULA assessment method.png" width="500" height=" 500"/>
-  <img src="assets/Screenshot 2022-03-02 at 3.57.58 PM.png" width="500" height=" 500" /> 
+  <img src="assets1/The RULA assessment method.png" width="500" height=" 500"/>
+  <img src="assets1/Screenshot 2022-03-02 at 3.57.58 PM.png" width="500" height=" 500" /> 
   
 </p>
 
 <p float="left">
-  <img src="assets/Screenshot 2022-03-03 at 3.14.35 PM.png" height=" 500" width="500">
-  <img src="assets/Screenshot 2022-03-02 at 7.38.12 PM.png" width="500" height=" 500" /> 
+  <img src="assets1/Screenshot 2022-03-03 at 3.14.35 PM.png" height=" 500" width="500">
+  <img src="assets1/Screenshot 2022-03-02 at 7.38.12 PM.png" width="500" height=" 500" /> 
   
 </p>
 <br>
