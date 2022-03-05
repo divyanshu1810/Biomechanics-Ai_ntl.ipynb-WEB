@@ -8,6 +8,7 @@ const Footer = () => (
       </div>
 
     <div className="gpt3__footer-copyright">
+      <p style={{fontSize:"2vh",margin:"10px"}}><a href="https://github.com/OmSadavarte/Biomechanics-Ai_ntl.ipynb" rel="noreferrer" target="_blank">View Source Code</a></p>
       <p style={{fontSize:"2vh"}}>Made with ❤️ by NTL.IPYNB</p>
     </div>
   </div>
