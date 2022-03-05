@@ -10,7 +10,7 @@ const Article = ({ imgUrl,text, github }) => (
       <div>
         <h3 style={{alignItems:"center", alignSelf:"center",textAlign:"center",justifyContent:"center"}}><a href={github} rel="noreferrer" target="_blank">{text}</a></h3>
       </div>
-      <p><a href={github} rel="noreferrer" target="_blank">Github</a></p>
+      
     </div>
   </div>
 );
