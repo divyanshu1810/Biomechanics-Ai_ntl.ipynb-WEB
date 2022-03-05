@@ -9,11 +9,11 @@ const featuresData = [
   },
   {
     title: 'Forever required in IT workspaces',
-    text: 'Since the concept of working in a stationary place would stay forever in the IT industry, even in an work from home environment, the validity of our product too can be trusted on',
+    text: 'Since the concept of working in a stationary place would stay forever in the IT industry, even in an work from home environment, the validity of our product too can be trusted on.',
   },
   {
     title: 'Real Time Alerts',
-    text: 'Since Real-Time posture correction is being used here rather than the traditional static image analysis, the efficiency of the our product is higher than the techniques currently used in themarket',
+    text: 'Since Real-Time posture correction is being used here rather than the traditional static image analysis, the efficiency of the our product is higher than the techniques currently used in the market.',
   },
 ];
 
